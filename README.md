@@ -24,4 +24,3 @@ Build in **Python 3**
 [TP_HUFFMAN] $ python3 huffman.py -d leHorlaEncode.txt
 # OUTPUT => Your content is in: leHorlaDecode.txt
 ```
-Hugo POULIQUEN
